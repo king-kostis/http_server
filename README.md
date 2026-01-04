@@ -1,2 +1,2 @@
-# http_server
-A simple http server made for learning
+# HTTP Server
+Http server made from scratch. (In progress)
